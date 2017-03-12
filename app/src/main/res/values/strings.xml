@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mercancia</string>
+    <string name="search">Search</string>
+    <string name="title">List of products</string>
+    <string name="title_activity_product_list">Search product</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mercancia</string>
+    <string name="searh">Buscar</string>
+    <string name="title">Lista de productos</string>
+    <string name="title_activity_product_list">Producto Buscado</string>
+    <string name="search">Buscar</string>
+</resources>
